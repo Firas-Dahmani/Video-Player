@@ -1,4 +1,4 @@
-<h1 align="center" id="top">[Video Player](https://firas-dahmani.github.io/Video-Player/)</h1>
+# [Video Player](https://firas-dahmani.github.io/Video-Player/)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
 

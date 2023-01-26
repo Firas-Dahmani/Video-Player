@@ -57,7 +57,7 @@ A simple video player build with vanilla JavaScript. Based on a <a href="https:/
 <h2 id="installation"> 🖥️ Installation</h2>
 
 <p>Clone the repo in the terminal, or command line in your code editor</p>
-<pre><code>git clone https://github.com/JonnathanRiquelmo/video-player.git </code></pre>
+<pre><code>git clone https://github.com/Firas-Dahmani/Video-Player.git </code></pre>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
 
